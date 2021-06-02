@@ -1,35 +1,29 @@
 html {
     background-color: orange;
+    font-size: larger;
 }
 
 #col-1 {
     background-color: red;
     border: 3px solid black;
-    height: 400px;
-    width: 200px;
+    height: 75vh;
+    width: 20vw;
     display: inline-block;
     margin: 80px 10px 0 200px;
+    padding: 5px;
 }
 
 #col-2 {
     background-color: green;
     border: 3px solid black;
-    height: 400px;
-    width: 200px;
+    height: 75vh;
+    width: 20vw;
+    padding: 10px;
     display: inline-block;
     margin: 80px 10px 0 10px;
 }
 
 #col-3 {
-    background-color: blue;
-    border: 3px solid black;
-    height: 400px;
-    width: 200px;
-    display: inline-block;
-    margin: 80px 10px 0 10px;
-}
-
-#col-4 {
     background-color: purple;
     border: 3px solid black;
     height: 400px;
@@ -37,3 +31,34 @@ html {
     display: inline-block;  
     margin: 80px 100px 0 10px;
 }
+
+section {
+    background-color: grey;
+    width: 500px;
+    height: 500px;
+    margin: 2vh 30vw 2vh 30vw;
+    border: 3px dotted black;
+}
+
+#col-4 {
+    background-color: blue;
+    border: 3px solid black;
+    height: 50%;
+    width: 50%;
+}
+
+h1 {
+    font-size: 50pt;
+    margin: 2vh 30vw 2vh 30vw;
+}
+
+h2 {
+    color: white;
+    font-size: 0.9em;
+}
+
+p {
+    color: white;
+    font-size: 1.5rem;
+}
+
