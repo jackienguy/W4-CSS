@@ -1,0 +1,39 @@
+html {
+    background-color: orange;
+}
+
+#col-1 {
+    background-color: red;
+    border: 3px solid black;
+    height: 400px;
+    width: 200px;
+    display: inline-block;
+    margin: 80px 10px 0 200px;
+}
+
+#col-2 {
+    background-color: green;
+    border: 3px solid black;
+    height: 400px;
+    width: 200px;
+    display: inline-block;
+    margin: 80px 10px 0 10px;
+}
+
+#col-3 {
+    background-color: blue;
+    border: 3px solid black;
+    height: 400px;
+    width: 200px;
+    display: inline-block;
+    margin: 80px 10px 0 10px;
+}
+
+#col-4 {
+    background-color: purple;
+    border: 3px solid black;
+    height: 400px;
+    width: 200px;
+    display: inline-block;  
+    margin: 80px 100px 0 10px;
+}
